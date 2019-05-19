@@ -63,7 +63,7 @@ def runner
   welcome
   deal = initial_round
   until current_card_total > 21
-    hit?
+   deal = hit?
 end
 end
     

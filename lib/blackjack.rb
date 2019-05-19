@@ -68,6 +68,6 @@ def runner
   end
   end_game(deal)
 end
-
+end
 runner
     

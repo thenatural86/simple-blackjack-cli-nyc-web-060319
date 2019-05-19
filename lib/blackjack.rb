@@ -36,8 +36,9 @@ def initial_round
   card1 + card2
 end
 
-def hit?
+def hit?(number)
   # code hit? here
+  prompt_user
 end
 
 def invalid_command

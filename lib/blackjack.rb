@@ -66,6 +66,6 @@ def runner
    deal = hit?(deal)
    display_card_total(deal)
   end
-  end_game
+  end_game(deal)
 end
     
